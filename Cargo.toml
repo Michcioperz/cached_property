@@ -3,6 +3,10 @@ name = "cached_property"
 version = "0.1.0"
 authors = ["Michał Sidor <public+git@meekchopp.es>"]
 edition = "2018"
+description = "proc macro for making argumentless methods cache"
+homepage = "https://git.hinata.iscute.ovh/cached_property/"
+repository = "https://git.hinata.iscute.ovh/cached_property/"
+license = "MIT OR Apache-2.0"
 
 [lib]
 proc-macro = true
